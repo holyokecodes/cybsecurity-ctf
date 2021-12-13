@@ -69,3 +69,5 @@ CTFd/uploads
 
 # CTFd Exports
 *.zip
+
+node_modules
